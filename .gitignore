@@ -60,3 +60,5 @@ desktop.ini
 # Python cache (if using KiCad scripting/plugins)
 __pycache__/
 *.pyc
+# KiCad local history
+.history
